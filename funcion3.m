@@ -7,10 +7,10 @@
 %Date           :202123498
 %Version        :1
 %Usage          :octave> /path/inyectivasuprayectivaybiyectiva
-%Notes          :Requiere aplicaci髇 octave, usar su linea de comandos 
+%Notes          :Requiere aplicaci贸n octave, usar su linea de comandos 
 %Fecha          :16/11/2021
 
-%Ejecuci髇 de funci髇 3
+%Ejecuci贸n de funci贸n 3
 clear
 pkg load symbolic
 syms x
@@ -21,4 +21,4 @@ disp ("Esta funcion no pertenece a ningun tipo de funcion");
 grid on
 ylabel('vr')
 xlabel('r')
-title('Funcion3,como resultado no pertenece a ningun tipo de funci髇)');
+title('Funcion3,como resultado no pertenece a ningun tipo de funci贸n)');
